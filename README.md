@@ -1,15 +1,16 @@
 
-# Proyecto: [Nombre de tu Aplicación]
+# Proyecto: App Cocktail
 
 ![Imagen de portada](ruta/a/tu/imagen.png)
 
 ## Descripción
 
-[Nombre de tu Aplicación] es una aplicación desarrollada en **Java** con **JavaFX** para la interfaz gráfica. Utiliza **Hibernate** como ORM para la persistencia de datos en **MySQL**. Además, incorpora **GSON** para manejar datos en formato **JSON** y realiza llamadas a una API externa para obtener información en tiempo real. Se ha seguido una estructura basada en el patrón **DAO (Data Access Object)** y se ha empleado **Lombok** para reducir la escritura de código repetitivo.
+App Cocktail es una aplicación desarrollada en **Java** con **JavaFX** para la interfaz gráfica. Utiliza **Hibernate** como ORM para la persistencia de datos en **MySQL**. Además, incorpora **GSON** para manejar datos en formato **JSON** y realiza llamadas a una API externa para obtener información en tiempo real. Se ha seguido una estructura basada en el patrón **DAO (Data Access Object)** y se ha empleado **Lombok** para reducir la escritura de código repetitivo.
 
 ## Tecnologías Utilizadas
 
 - **Java** (Lenguaje principal)
+- **CSS**
 - **JavaFX** (Interfaz gráfica de usuario)
 - **Hibernate** (Manejo de base de datos con ORM)
 - **MySQL** (Base de datos relacional)
