@@ -32,11 +32,14 @@ App Cocktail es una aplicación desarrollada en **Java** con **JavaFX** para la 
 
 ## Capturas de Pantalla
 
-_Aquí puedes incluir algunas imágenes de la aplicación en funcionamiento._
+<img width="398" alt="Captura de Pantalla 2025-03-04 a las 10 30 31" src="https://github.com/user-attachments/assets/bc3b593f-3605-4a0f-90ec-01f1349dbce3" />
+<img width="399" alt="Captura de Pantalla 2025-03-04 a las 10 31 04" src="https://github.com/user-attachments/assets/f0ee1c92-dcea-4393-9e90-ae150713e605" />
 
-## Video de Demostración
 
-[![Video de demostración](https://img.youtube.com/vi/ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+<img width="1280" alt="Captura de Pantalla 2025-03-04 a las 10 43 23" src="https://github.com/user-attachments/assets/f8e7f8f5-ea52-4475-89b4-528f1b0444a7" />
+
+
+
 
 
 
