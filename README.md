@@ -1,7 +1,8 @@
 
 # Proyecto: App Cocktail
 
-![Imagen de portada](ruta/a/tu/imagen.png)
+![img](https://github.com/user-attachments/assets/876a012d-aba1-466d-9ae1-f92494b35250)
+
 
 ## Descripción
 
