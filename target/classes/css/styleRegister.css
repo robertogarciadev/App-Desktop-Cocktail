@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom, #ff4d4d, #b30000);
+}
+
+.login-container {
+    -fx-background-color: white;
+    -fx-background-radius: 15;
+    -fx-padding: 20;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0, 0, 5);
+}
+
+.label {
+    -fx-font-size: 18px;
+
+}
+
+.text-field, .password-field {
+    -fx-background-color: #fff;
+    -fx-border-color: #b30000;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
+
+.button {
+    -fx-background-color: #b30000;
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #ff3333;
+    -fx-font-size: 18px;
+}
+
+.button:pressed {
+    -fx-background-color: #800000;
+}
